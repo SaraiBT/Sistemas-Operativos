@@ -14,18 +14,25 @@
   - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
     - [Windows 8](#windows-8)
     - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
-    - [Ubuntu (Linux)](#ubuntu-linux)
+    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones)
+    - [Debian](#debian)
+    - [Windows Server](#windows-server)
+    - [Red Hat](#red-hat)
+    - [Android](#android)
+    - [Elementary OS](#elementary-os)
+    - [Kubuntu](#kubuntu)
+    - [LinuxMint](#linuxmint)
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
-    - [Windows](#windows-1)
-    - [MacOS](#macos-1)
-    - [Windows 10/11 y Ubuntu 20/22 con particiones](#Windows-10/11-y-Ubuntu-20/22-con-particiones)
-    - [Debian](#Debian)
-    - [Windows Server](#Windows-Server)
-    - [Red Hat](#Red-Hat)
-    - [Android](#Android)
-    - [Elementary OS](#Elementary-OS)
-    - [Kubuntu](#Kubuntu)
-    - [LinuxMint](#LinuxMint)
+    - [Windows 8](#windows-8)
+    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
+    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones)
+    - [Debian](#debian)
+    - [Windows Server](#windows-server)
+    - [Red Hat](#red-hat)
+    - [Android](#android)
+    - [Elementary OS](#elementary-os)
+    - [Kubuntu](#kubuntu)
+    - [LinuxMint](#linuxmint)
   - [4. Información Relevante](#4-información-relevante)
   - [5. Tabla Comparativa](#5-tabla-comparativa)
   - [6. Conclusión](#6-conclusión)
@@ -58,7 +65,7 @@ Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita
 
 ## 3. Ventajas y Desventajas
 
-### Windows
+### Windows 8
 
 **Ventajas:**
 - Amplia compatibilidad con software y hardware.
