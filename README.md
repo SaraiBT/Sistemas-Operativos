@@ -25,7 +25,7 @@
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
     - [Windows 8](#windows-8-1)
     - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones-1)
-    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones-1)
+    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10-11-y-ubuntu-20-22-con-particiones-1)
     - [Debian](#debian-1)
     - [Windows Server](#windows-server-1)
     - [Red Hat](#red-hat-1)
