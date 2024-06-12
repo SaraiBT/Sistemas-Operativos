@@ -14,7 +14,7 @@
   - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
     - [Windows 8](#windows-8)
     - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
-    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones)
+    - [Windows 11 y Ubuntu 20 con particiones](#windows-11-y-ubuntu-20-con-particiones)
     - [Debian](#debian)
     - [Windows Server](#windows-server)
     - [Red Hat](#red-hat)
@@ -24,15 +24,15 @@
     - [LinuxMint](#linuxmint)
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
     - [Windows 8](#windows-8-1)
-    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
-    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones)
-    - [Debian](#debian)
-    - [Windows Server](#windows-server)
-    - [Red Hat](#red-hat)
-    - [Android](#android)
-    - [Elementary OS](#elementary-os)
-    - [Kubuntu](#kubuntu)
-    - [LinuxMint](#linuxmint)
+    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones-1)
+    - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones-1)
+    - [Debian](#debian-1)
+    - [Windows Server](#windows-server-1)
+    - [Red Hat](#red-hat-1)
+    - [Android](#android-1)
+    - [Elementary OS](#elementary-os-1)
+    - [Kubuntu](#kubuntu-1)
+    - [LinuxMint](#linuxmint-1)
   - [4. Información Relevante](#4-información-relevante)
   - [5. Tabla Comparativa](#5-tabla-comparativa)
   - [6. Conclusión](#6-conclusión)
@@ -51,7 +51,7 @@ Windows es desarrollado por Microsoft y es uno de los sistemas operativos más p
 ### Ubuntu 24 con particiones
 MacOS es el sistema operativo desarrollado por Apple para sus computadoras Mac. Es reconocido por su diseño elegante, alta integración con el ecosistema de Apple y su estabilidad.
 
-### Windows 10/11 y Ubuntu 20/22 con particiones
+### Windows 11 y Ubuntu 20 con particiones
 Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita y de código abierto. Es apreciada por su seguridad, estabilidad y personalización.
 
 ### Debian
