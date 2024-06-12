@@ -22,8 +22,10 @@
     - [Elementary OS](#elementary-os)
     - [Kubuntu](#kubuntu)
     - [LinuxMint](#linuxmint)
-  - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
-    - [Windows 8](#windows-8-1)
+  - [3. Requisitos previos a la instalación](#3-requisitos-previos-a-la-instalación)
+    - [Windows 8](#Windows-8-1)
+  - [4. Ventajas y Desventajas](#3-ventajas-y-desventajas)
+    - [Windows 8](#windows-8-2)
     - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones-1)
     - [Windows 11 y Ubuntu 20 con particiones](#windows-11-y-ubuntu-20-con-particiones-1)
     - [Debian](#debian-1)
@@ -33,9 +35,9 @@
     - [Elementary OS](#elementary-os-1)
     - [Kubuntu](#kubuntu-1)
     - [LinuxMint](#linuxmint-1)
-  - [4. Información Relevante](#4-información-relevante)
-  - [5. Tabla Comparativa](#5-tabla-comparativa)
-  - [6. Conclusión](#6-conclusión)
+  - [5. Información Relevante](#4-información-relevante)
+  - [6. Tabla Comparativa](#5-tabla-comparativa)
+  - [7. Conclusión](#6-conclusión)
 
 ---
 
@@ -63,7 +65,11 @@ Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita
 ### LinuxMint
 ### 
 
-## 3. Ventajas y Desventajas
+## 3. Requisitos previos a la instalación
+
+### Windows 8
+
+## 4. Ventajas y Desventajas
 
 ### Windows 8
 
