@@ -12,13 +12,20 @@
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
-    - [Windows](#windows)
-    - [MacOS](#macos)
+    - [Windows 8](#windows-8)
+    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
     - [Ubuntu (Linux)](#ubuntu-linux)
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
     - [Windows](#windows-1)
     - [MacOS](#macos-1)
-    - [Ubuntu (Linux)](#ubuntu-linux-1)
+    - [Windows 10/11 y Ubuntu 20/22 con particiones](#Windows-10/11-y-Ubuntu-20/22-con-particiones)
+    - [Debian](#Debian)
+    - [Windows Server](#Windows-Server)
+    - [Red Hat](#Red-Hat)
+    - [Android](#Android)
+    - [Elementary OS](#Elementary-OS)
+    - [Kubuntu](#Kubuntu)
+    - [LinuxMint](#LinuxMint)
   - [4. Información Relevante](#4-información-relevante)
   - [5. Tabla Comparativa](#5-tabla-comparativa)
   - [6. Conclusión](#6-conclusión)
@@ -31,14 +38,23 @@ El objetivo de este informe es comparar tres de los sistemas operativos más uti
 
 ## 2. Sistemas Operativos Comparados
 
-### Windows
+### Windows 8
 Windows es desarrollado por Microsoft y es uno de los sistemas operativos más populares en el mundo. Es conocido por su interfaz amigable y amplia compatibilidad con software y hardware.
 
-### MacOS
+### Ubuntu 24 con particiones
 MacOS es el sistema operativo desarrollado por Apple para sus computadoras Mac. Es reconocido por su diseño elegante, alta integración con el ecosistema de Apple y su estabilidad.
 
-### Ubuntu (Linux)
+### Windows 10/11 y Ubuntu 20/22 con particiones
 Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita y de código abierto. Es apreciada por su seguridad, estabilidad y personalización.
+
+### Debian
+### Windows Server
+### Red Hat 
+### Android
+### Elementary OS
+### Kubuntu
+### LinuxMint
+### 
 
 ## 3. Ventajas y Desventajas
 
@@ -54,7 +70,7 @@ Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita
 - Costo de las licencias.
 - Puede requerir hardware más potente para un rendimiento óptimo.
 
-### MacOS
+### Ubuntu 24 con particiones
 
 **Ventajas:**
 - Alta estabilidad y rendimiento.
@@ -66,7 +82,91 @@ Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita
 - Menor compatibilidad con software y juegos en comparación con Windows.
 - Menor flexibilidad para personalización del sistema.
 
-### Ubuntu (Linux)
+### Windows 10/11 y Ubuntu 20/22 con particiones
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Debian
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Windows Server
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Red Hat 
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Android
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Elementary OS
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### Kubuntu
+
+**Ventajas:**
+- Gratuito y de código abierto.
+- Alta seguridad y estabilidad.
+- Alta capacidad de personalización y eficiencia en el uso de recursos.
+
+**Desventajas:**
+- Curva de aprendizaje más pronunciada para nuevos usuarios.
+- Menor compatibilidad con software propietario.
+- Menor soporte nativo para juegos.
+
+### LinuxMint
 
 **Ventajas:**
 - Gratuito y de código abierto.
@@ -82,9 +182,17 @@ Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita
 
 **Windows:** Se utiliza ampliamente en entornos empresariales y educativos debido a su compatibilidad y soporte de aplicaciones. Las actualizaciones y parches son frecuentes, mejorando constantemente la seguridad y funcionalidad.
 
-**MacOS:** Favorecido por profesionales creativos como diseñadores gráficos, editores de video y músicos debido a sus capacidades avanzadas en multimedia. La integración con el ecosistema de Apple, incluyendo iCloud y dispositivos iOS, es un gran punto a favor.
+**Ubuntu 24 con particiones:** Favorecido por profesionales creativos como diseñadores gráficos, editores de video y músicos debido a sus capacidades avanzadas en multimedia. La integración con el ecosistema de Apple, incluyendo iCloud y dispositivos iOS, es un gran punto a favor.
 
-**Ubuntu (Linux):** Popular entre desarrolladores y entusiastas de la tecnología debido a su flexibilidad y naturaleza de código abierto. Es ideal para servidores y entornos de desarrollo debido a su robustez y capacidad de personalización.
+**Windows 10/11 y Ubuntu 20/22 con particiones:** Popular entre desarrolladores y entusiastas de la tecnología debido a su flexibilidad y naturaleza de código abierto. Es ideal para servidores y entornos de desarrollo debido a su robustez y capacidad de personalización.
+
+**Debian:**
+**Windows Server:**
+**Red Hat:** 
+**Android:**
+**Elementary OS:**
+**Kubuntu:**
+**LinuxMint:**
 
 ## 5. Tabla Comparativa
 
