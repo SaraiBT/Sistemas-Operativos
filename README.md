@@ -112,6 +112,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio disponible en disco duro: Al menos 64 GB de espacio libre.
  - Tarjeta gráfica: Compatible con DirectX 9 o superior.
  - Resolución de pantalla: No hay requisitos específicos mencionados para la resolución de pantalla
+   
 **Ubuntu 20**
  - Procesador: Procesador de 64 bits con 2 GHz o más rápido.
  - Memoria RAM: 4 GB de RAM.
