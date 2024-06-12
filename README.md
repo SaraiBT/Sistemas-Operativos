@@ -23,7 +23,7 @@
     - [Kubuntu](#kubuntu)
     - [LinuxMint](#linuxmint)
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
-    - [Windows 8](#windows-8)
+    - [Windows 8](#windows-8-1)
     - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
     - [Windows 10/11 y Ubuntu 20/22 con particiones](#windows-10/11-y-ubuntu-20/22-con-particiones)
     - [Debian](#debian)
