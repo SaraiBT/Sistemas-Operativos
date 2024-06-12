@@ -317,25 +317,35 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 
 ## 5. Información Relevante
 
-**Windows 8:** Windows 8 es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, empresarios, empleados y usuarios de entretenimiento gracias a su interfaz personalizable, aplicaciones integradas y compatibilidad con una amplia gama de dispositivos.
+**Windows 8:** 
+ - Windows 8 es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, empresarios, empleados y usuarios de entretenimiento gracias a su interfaz personalizable, aplicaciones integradas y compatibilidad con una amplia gama de dispositivos.
 
-**Ubuntu 24 con particiones:** Ubuntu 24.04 LTS es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores y aquellos que valoran la privacidad gracias a su interfaz intuitiva, amplia compatibilidad de software y enfoque en la seguridad y la privacidad.
+**Ubuntu 24 con particiones:** 
+ - Ubuntu 24.04 LTS es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores y aquellos que valoran la privacidad gracias a su interfaz intuitiva, amplia compatibilidad de software y enfoque en la seguridad y la privacidad.
 
-**Windows 11 y Ubuntu 20 con particiones:** Windows 11 y Ubuntu 20.04 LTS son sistemas operativos versátiles que pueden beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores de Linux y aquellos que valoran la privacidad.
+**Windows 11 y Ubuntu 20 con particiones:** 
+ - Windows 11 y Ubuntu 20.04 LTS son sistemas operativos versátiles que pueden beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores de Linux y aquellos que valoran la privacidad.
 
-**Debian:** Debian es un sistema operativo versátil que puede beneficiar a una amplia gama de usuarios, desde desarrolladores y estudiantes hasta jugadores y usuarios que buscan flexibilidad y seguridad.
+**Debian:** 
+ - Debian es un sistema operativo versátil que puede beneficiar a una amplia gama de usuarios, desde desarrolladores y estudiantes hasta jugadores y usuarios que buscan flexibilidad y seguridad.
 
-**Windows Server:** Windows Server es un sistema operativo versátil que puede beneficiar a una amplia gama de usuarios, desde desarrolladores y administradores hasta PYMES y grandes corporaciones, gracias a su capacidad para manejar cargas de trabajo esenciales, su integración con entornos en la nube y su protección avanzada multicapa contra amenazas.
+**Windows Server:** 
+ - Windows Server es un sistema operativo versátil que puede beneficiar a una amplia gama de usuarios, desde desarrolladores y administradores hasta PYMES y grandes corporaciones, gracias a su capacidad para manejar cargas de trabajo esenciales, su integración con entornos en la nube y su protección avanzada multicapa contra amenazas.
 
-**Red Hat:** El sistema operativo Red Hat Enterprise Linux es ideal para una amplia gama de usuarios, incluyendo: Empresas que necesitan protección avanzada, Empresas que necesitan hospedar máquinas virtuales y contenedores, Empresas que necesitan gestión de identidad, etc.
+**Red Hat:** 
+ - El sistema operativo Red Hat Enterprise Linux es ideal para una amplia gama de usuarios, incluyendo: Empresas que necesitan protección avanzada, Empresas que necesitan hospedar máquinas virtuales y contenedores, Empresas que necesitan gestión de identidad, etc.
 
-**Android 13:** Android 13 es un sistema operativo que puede beneficiar a una amplia gama de usuarios, incluyendo: Desarrolladores de software, Empresas que necesitan seguridad y flexibilidad, Desarrolladores de aplicaciones web, etc.
+**Android 13:** 
+ - Android 13 es un sistema operativo que puede beneficiar a una amplia gama de usuarios, incluyendo: Desarrolladores de software, Empresas que necesitan seguridad y flexibilidad, Desarrolladores de aplicaciones web, etc.
 
-**Elementary OS:** Elementary OS es un sistema operativo que se enfoca en ofrecer una experiencia de usuario fácil de usar y personalizable. Está diseñado para ser una alternativa a Windows y macOS, y se dirige a usuarios que buscan una plataforma estable y segura.
+**Elementary OS:**
+ - Elementary OS es un sistema operativo que se enfoca en ofrecer una experiencia de usuario fácil de usar y personalizable. Está diseñado para ser una alternativa a Windows y macOS, y se dirige a usuarios que buscan una plataforma estable y segura.
 
-**Kubuntu:** Profesionales que pueden beneficiarse de Kubuntu: Profesionales de la tecnología, salud, educacion, finanza y Marketing.
+**Kubuntu:** 
+ - Profesionales que pueden beneficiarse de Kubuntu: Profesionales de la tecnología, salud, educacion, finanza y Marketing.
 
-**LinuxMint:** Linux Mint se considera una distribución especialmente fácil de usar para los usuarios principiantes, por lo que también se recomienda a los usuarios que han decidido cambiar de Windows a Linux. Es ideal para usuarios domésticos que buscan un sistema operativo intuitivo y eficiente para tareas diarias.
+**LinuxMint:** 
+ - Linux Mint se considera una distribución especialmente fácil de usar para los usuarios principiantes, por lo que también se recomienda a los usuarios que han decidido cambiar de Windows a Linux. Es ideal para usuarios domésticos que buscan un sistema operativo intuitivo y eficiente para tareas diarias.
 
 ## 6. Tabla Comparativa
 
