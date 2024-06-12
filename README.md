@@ -52,7 +52,7 @@
 
 ## 1. Introducción
 
-El objetivo de este informe sera comparar varios Sistemas Operativos, en donde seran analizadas las deventajas y ventajas de estos, se mostratan los requisitos de intalacion y una previa prueba de que si funcionan ya sea con la instalacion de un juego, tambien tendra informacion más relaevante de cada Sistema Operativo, se realizara la tabla comparativa y por ultimo una cocnlusion.
+El objetivo de este informe sera comparar varios Sistemas Operativos, en donde seran analizadas las deventajas y ventajas de estos, se mostratan los requisitos de intalacion y una previa prueba de que si funcionan ya sea con la instalacion de un juego, tambien tendra informacion más relevante de cada Sistema Operativo, se realizara la tabla comparativa y por ultimo una cocnlusion.
 
 ## 2. Sistemas Operativos Comparados
 
@@ -93,6 +93,12 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 ## 3. Requisitos previos a la instalación
 
 ### Windows 8
+ - Procesador: Procesador de 1 GHz o más rápido.
+ - Memoria RAM: 2 GB de RAM para versiones de 64 bits y 1 GB para versiones de 32 bits.
+ - Espacio disponible en disco duro: 16 GB para versiones de 32 bits y 20 GB para versiones de 64 bits.
+ - Tarjeta gráfica: Compatible con DirectX 9 o superior.
+ - Resolución de pantalla: No hay requisitos específicos mencionados para la resolución de pantalla
+   
 ### Ubuntu 24 con particiones
 ### Windows 11 y Ubuntu 20 con particiones
 ### Debian
