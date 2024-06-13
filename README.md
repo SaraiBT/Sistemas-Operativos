@@ -33,7 +33,7 @@
     - [Elementary OS](#elementary-os-1)
     - [Kubuntu](#kubuntu-1)
     - [LinuxMint](#linuxmint-1)
-  - [4. Ventajas y Desventajas](#3-ventajas-y-desventajas)
+  - [4. Ventajas y Desventajas](#4-ventajas-y-desventajas)
     - [Windows 8](#windows-8-2)
     - [Ubuntu 24](#ubuntu-24-2)
     - [Windows 11 y Ubuntu 20](#windows-11-y-ubuntu-20-2)
@@ -44,9 +44,9 @@
     - [Elementary OS](#elementary-os-2)
     - [Kubuntu](#kubuntu-2)
     - [LinuxMint](#linuxmint-2)
-  - [5. Información Relevante](#4-información-relevante)
-  - [6. Tabla Comparativa](#5-tabla-comparativa)
-  - [7. Conclusión](#6-conclusión)
+  - [5. Información Relevante](#5-información-relevante)
+  - [6. Tabla Comparativa](#6-tabla-comparativa)
+  - [7. Conclusión](#7-conclusión)
 
 ---
 
