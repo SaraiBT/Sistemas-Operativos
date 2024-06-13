@@ -349,8 +349,8 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 
 ## 6. Tabla Comparativa
 
-| OS                     | Costo         | Interfaz         | Compatibilidad            | Seguridad     | Actualizaciones | Rendimiento   | Soporte                |
-|------------------------|---------------|------------------|---------------------------|---------------|-----------------|---------------|------------------------|
+|    Sistema Operativo   |     Costo     |     Interfaz     |       Compatibilidad      |   Seguridad   | Actualizaciones |  Rendimiento  |         Soporte        |
+|:----------------------:|:-------------:|:----------------:|:-------------------------:|:-------------:|:---------------:|:-------------:|:----------------------:|
 | Windows 8              | Pago          | GUI              | Hardware moderno          | Moderada      | Regulares       | Moderno       | Ofrecido por Microsoft |
 | Ubuntu 24              | Gratis        | GUI (GNOME)      | Amplia (PCs y servidores) | Buena         | Regulares y LTS | Bueno         | Comunidad y Canonical  |
 | Windows 11 y Ubuntu 20 | Pago / Gratis | GUI              | Moderno                   | Buena / Buena | Regulares / LTS | Bueno / Bueno | Microsft / Canonical   |
@@ -360,8 +360,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 |  Android 13            | Gratis        | GUI (Android)    | Dipositivos moviles       | Buena         | Variables       | Variable      | Google                 |
 | Elemntary OS           | Gratis        | GUI (Pantheon)   | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
 | Kubuntu                | Gratis        | GUI (KDE Plasma) | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
-| LinuxMint              | Gratis        | GUI (Cinnamon)   | PCs                       | Buena         | Regulares y LTS | Bueno         |                        |
-
+| LinuxMint              | Gratis        | GUI (Cinnamon)   | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
 
 ## 7. Conclusión
 
