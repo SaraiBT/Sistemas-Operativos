@@ -13,8 +13,8 @@
   - [1. Introducción](#1-introducción)
   - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
     - [Windows 8](#windows-8)
-    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones)
-    - [Windows 11 y Ubuntu 20 con particiones](#windows-11-y-ubuntu-20-con-particiones)
+    - [Ubuntu 24](#ubuntu-24)
+    - [Windows 11 y Ubuntu 20](#windows-11-y-ubuntu-20)
     - [Debian](#debian)
     - [Windows Server](#windows-server)
     - [Red Hat](#red-hat)
@@ -24,8 +24,8 @@
     - [LinuxMint](#linuxmint)
   - [3. Requisitos previos a la instalación](#3-requisitos-previos-a-la-instalación)
     - [Windows 8](#Windows-8-1)
-    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones-1)
-    - [Windows 11 y Ubuntu 20 con particiones](#windows-11-y-ubuntu-20-con-particiones-1)
+    - [Ubuntu 24](#ubuntu-24-1)
+    - [Windows 11 y Ubuntu 20](#windows-11-y-ubuntu-20-1)
     - [Debian](#debian-1)
     - [Windows Server](#windows-server-1)
     - [Red Hat](#red-hat-1)
@@ -35,8 +35,8 @@
     - [LinuxMint](#linuxmint-1)
   - [4. Ventajas y Desventajas](#3-ventajas-y-desventajas)
     - [Windows 8](#windows-8-2)
-    - [Ubuntu 24 con particiones](#ubuntu-24-con-particiones-2)
-    - [Windows 11 y Ubuntu 20 con particiones](#windows-11-y-ubuntu-20-con-particiones-2)
+    - [Ubuntu 24](#ubuntu-24-2)
+    - [Windows 11 y Ubuntu 20](#windows-11-y-ubuntu-20-2)
     - [Debian](#debian-2)
     - [Windows Server](#windows-server-2)
     - [Red Hat](#red-hat-2)
@@ -59,10 +59,10 @@ El objetivo de este informe sera comparar varios Sistemas Operativos, en donde s
 ### Windows 8
 Windows 8 fue desarrollado por Microsoft y lanzado el 26 de octubre de 2012. Es conocido por su innovadora interfaz Modern UI, su enfoque en dispositivos táctiles y la integración con servicios en la nube, marcando un cambio significativo
 
-### Ubuntu 24 con particiones
+### Ubuntu 24 
 Ubuntu 24 de ser lanzado, sería una versión futura del popular sistema operativo Ubuntu, desarrollado por Canonical Ltd. Ubuntu es una distribución de Linux basada en Debian y es conocida por su facilidad de uso, estabilidad y fuerte comunidad de soporte.
 
-### Windows 11 y Ubuntu 20 con particiones
+### Windows 11 y Ubuntu 20 
 Windows 11 fue desarrollado por Microsoft para mejorar la experiencia de usuario, aumentar la productividad y la creatividad, y brindar una mayor seguridad y estabilidad. Fue lanzado oficialmente el 5 de octubre de 2021, como una actualización gratuita para aquellos equipos que cumplan con ciertas especificaciones técnicas compatibles con el nuevo sistema operativo.
 
 Ubuntu 20.04 LTS, también conocido como Focal Fossa, es una versión de soporte extendido de Ubuntu que incluye mejoras significativas en seguridad, rendimiento y compatibilidad. Fue lanzado el 23 de abril de 2020 y ofrece cinco años de soporte hasta abril de 2025. Ubuntu 20.04 LTS es recomendado para nuevas instalaciones y es compatible con hardware AMD64 y EM64T
@@ -99,13 +99,13 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Tarjeta gráfica: Compatible con DirectX 9 o superior.
  - Resolución de pantalla: No hay requisitos específicos mencionados para la resolución de pantalla
    
-### Ubuntu 24 con particiones
+### Ubuntu 24 
  - Procesador: Procesador de 64 bits con 2 GHz o más rápido.
  - Memoria RAM: 4 GB de RAM.
  - Espacio disponible en disco duro: Al menos 25 GB de espacio libre en el disco duro.
  - Tarjeta gráfica: Tarjeta gráfica y monitor capaces de una resolución de al menos 1024 x 768 píxeles
 
-### Windows 11 y Ubuntu 20 con particiones
+### Windows 11 y Ubuntu 20 
 **Windows 11**
  - Procesador: Procesador de 1 GHz o más rápido con 2 o más núcleos y que aparezca en la lista de CPUs aprobadas.
  - Memoria RAM: 4 GB de RAM.
@@ -180,7 +180,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Confusión entre modos de escritorio y "Modern UI": Cambiar entre la interfaz de escritorio tradicional y la nueva "Modern UI" a veces era confuso para los usuarios.
  - Poca personalización: La interfaz "Modern UI" ofrecía menos opciones de personalización en comparación con versiones anteriores de Windows
 
-### Ubuntu 24 con particiones
+### Ubuntu 24 
 
 **Ventajas:**
  - Gratuito y de Código Abierto: Es completamente gratuito y de código abierto, lo que significa que no necesitas pagar licencia ni preocuparte por la privacidad de tu información.
@@ -194,7 +194,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Rendimiento: Puede afectar el rendimiento de ciertos dispositivos, especialmente aquellos con hardware más antiguo.
  - Dificultad de Uso para Principiantes: Aunque Ubuntu es fácil de usar, puede ser un poco complicado para principiantes debido a su interfaz y opciones de configuración
    
-### Windows 11 y Ubuntu 20 con particiones
+### Windows 11 y Ubuntu 20 
 **Windows 11**
 **Ventajas:**
  - Diseño de ventana de vidrio: Tiene un diseño de ventana de vidrio que es atractivo y fácil de usar.
@@ -320,10 +320,10 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 **Windows 8:** 
  - Windows 8 es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, empresarios, empleados y usuarios de entretenimiento gracias a su interfaz personalizable, aplicaciones integradas y compatibilidad con una amplia gama de dispositivos.
 
-**Ubuntu 24 con particiones:** 
+**Ubuntu 24:** 
  - Ubuntu 24.04 LTS es un sistema operativo versátil que puede beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores y aquellos que valoran la privacidad gracias a su interfaz intuitiva, amplia compatibilidad de software y enfoque en la seguridad y la privacidad.
 
-**Windows 11 y Ubuntu 20 con particiones:** 
+**Windows 11 y Ubuntu 20:** 
  - Windows 11 y Ubuntu 20.04 LTS son sistemas operativos versátiles que pueden beneficiar a estudiantes, profesionales, desarrolladores, usuarios de aplicaciones populares, jugadores de Linux y aquellos que valoran la privacidad.
 
 **Debian:** 
