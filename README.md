@@ -349,15 +349,18 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 
 ## 6. Tabla Comparativa
 
-| Característica      | Windows                  | MacOS                    | Ubuntu (Linux)           |
-|---------------------|--------------------------|--------------------------|--------------------------|
-| **Costo**           | Licencia de pago         | Incluido con hardware Apple | Gratuito y de código abierto |
-| **Interfaz**        | Familiar y fácil de usar | Elegante y fácil de usar | Personalizable          |
-| **Compatibilidad**  | Alta con software y hardware | Moderada con software, baja con hardware no Apple | Moderada con software propietario |
-| **Seguridad**       | Vulnerable a malware     | Muy segura               | Muy segura               |
-| **Actualizaciones** | Frecuentes               | Periódicas               | Continuas                |
-| **Rendimiento**     | Requiere hardware potente| Optimizado para hardware Apple | Eficiente en hardware menos potente |
-| **Soporte**         | Amplio y variado         | Excelentes servicios de soporte de Apple | Comunidad activa        |
+| OS                     | Costo         | Interfaz         | Compatibilidad            | Seguridad     | Actualizaciones | Rendimiento   | Soporte                |
+|------------------------|---------------|------------------|---------------------------|---------------|-----------------|---------------|------------------------|
+| Windows 8              | Pago          | GUI              | Hardware moderno          | Moderada      | Regulares       | Moderno       | Ofrecido por Microsoft |
+| Ubuntu 24              | Gratis        | GUI (GNOME)      | Amplia (PCs y servidores) | Buena         | Regulares y LTS | Bueno         | Comunidad y Canonical  |
+| Windows 11 y Ubuntu 20 | Pago / Gratis | GUI              | Moderno                   | Buena / Buena | Regulares / LTS | Bueno / Bueno | Microsft / Canonical   |
+| Debian                 | Gratis        | GUI (varios)     | Amplia (PCs y servidores) | Buena         | Regulares y LTS | Bueno         | Comunidad              |
+| Windows Server         | Pago          | GUI              | Servidores                | Buena         | Regulares       | Bueno         | Microsoft              |
+| Red Hat                | Pago          | GUI (GNOME)      | Servidores                | Excelente     | Regulares y LTS | Excelente     | Red Hat                |
+|  Android 13            | Gratis        | GUI (Android)    | Dipositivos moviles       | Buena         | Variables       | Variable      | Google                 |
+| Elemntary OS           | Gratis        | GUI (Pantheon)   | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
+| Kubuntu                | Gratis        | GUI (KDE Plasma) | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
+| LinuxMint              | Gratis        | GUI (Cinnamon)   | PCs                       | Buena         | Regulares y LTS | Bueno         |                        |
 
 
 ## 7. Conclusión
