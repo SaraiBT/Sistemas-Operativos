@@ -364,6 +364,8 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 
 ## 7. Conclusión
 
-La elección del sistema operativo adecuado depende en gran medida de las necesidades específicas del usuario. Windows es ideal para aquellos que buscan compatibilidad y facilidad de uso general, macOS es perfecto para profesionales creativos y usuarios del ecosistema Apple, mientras que Ubuntu es la mejor opción para desarrolladores y entusiastas de la tecnología que valoran la seguridad y personalización.
-
-Cada sistema operativo tiene sus propias fortalezas y debilidades, y la decisión final debe basarse en una evaluación cuidadosa de las prioridades y requisitos personales.
+ - Para usuarios comerciales y de consumo: Windows ofrece una amplia compatibilidad con software comercial y juegos, pero a menudo a costa de la libertad y personalización que ofrecen las distribuciones Linux.
+ - Para desarrollo y servidores: Distribuciones como Ubuntu, Debian, Red Hat y sus derivados son populares debido a su seguridad, estabilidad y opciones de personalización.
+ - Para dispositivos móviles: Android es la opción predominante debido a su integración con dispositivos móviles y el ecosistema de aplicaciones.
+   
+La elección del sistema operativo ideal depende de las necesidades específicas de uso, preferencias personales y el entorno en el que se va a utilizar.
