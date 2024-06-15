@@ -130,7 +130,9 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Memoria RAM: 512 MB de RAM.
  - Espacio disponible en disco duro: Mínimo de 32 GB.
  - Adaptador de red: Adaptador Ethernet con un rendimiento de al menos 1 gigabit por segundo y compatible con la especificación de arquitectura PCI Express
-   
+
+!(
+
 ### Red Hat 
  - Procesador: Procesador de 64 bits con al menos 1 núcleo.
  - Memoria RAM: 2 GB de RAM.
@@ -348,7 +350,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Linux Mint se considera una distribución especialmente fácil de usar para los usuarios principiantes, por lo que también se recomienda a los usuarios que han decidido cambiar de Windows a Linux. Es ideal para usuarios domésticos que buscan un sistema operativo intuitivo y eficiente para tareas diarias.
 
 ## 6. Tabla Comparativa
-`rgb(9, 105, 218)`
+
 |    Sistema Operativo   |     Costo     |     Interfaz     |       Compatibilidad      |   Seguridad   | Actualizaciones |  Rendimiento  |         Soporte        |
 |:----------------------:|:-------------:|:----------------:|:-------------------------:|:-------------:|:---------------:|:-------------:|:----------------------:|
 | Windows 8              | Pago          | GUI              | Hardware moderno          | Moderada      | Regulares       | Moderno       | Ofrecido por Microsoft |
