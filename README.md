@@ -1,4 +1,4 @@
-# Informe Comparativo entre Varios Sistemas Operativos
+ b# Informe Comparativo entre Varios Sistemas Operativos
 
 **Curso:** Sistemas Operativos I
 
@@ -348,6 +348,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Linux Mint se considera una distribución especialmente fácil de usar para los usuarios principiantes, por lo que también se recomienda a los usuarios que han decidido cambiar de Windows a Linux. Es ideal para usuarios domésticos que buscan un sistema operativo intuitivo y eficiente para tareas diarias.
 
 ## 6. Tabla Comparativa
+<table style=”background-color:#33475b”>
 
 |    Sistema Operativo   |     Costo     |     Interfaz     |       Compatibilidad      |   Seguridad   | Actualizaciones |  Rendimiento  |         Soporte        |
 |:----------------------:|:-------------:|:----------------:|:-------------------------:|:-------------:|:---------------:|:-------------:|:----------------------:|
@@ -361,7 +362,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 | Elemntary OS           | Gratis        | GUI (Pantheon)   | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
 | Kubuntu                | Gratis        | GUI (KDE Plasma) | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
 | LinuxMint              | Gratis        | GUI (Cinnamon)   | PCs                       | Buena         | Regulares y LTS | Bueno         | Comunidad              |
-
+</table>
 ## 7. Conclusión
 
  - Para usuarios comerciales y de consumo: Windows ofrece una amplia compatibilidad con software comercial y juegos, pero a menudo a costa de la libertad y personalización que ofrecen las distribuciones Linux.
