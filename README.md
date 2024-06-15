@@ -124,6 +124,11 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Procesador: Procesador de 64 bits con al menos 1 núcleo.
  - Memoria RAM: 256 Megabytes.
  - Espacio disponible en disco duro: 4 Gigabytes
+
+<p float="left" style="text-align:center">
+ <img src="image/Imagen1.png" widtch="200" height="200"/>
+ <img src="image/Imagen2.png" widtch="100" height="200"/>
+</p> 
    
 ### Windows Server
  - Procesador: Procesador de 64 bits a 1,4 GHz.
