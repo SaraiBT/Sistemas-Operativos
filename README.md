@@ -98,6 +98,13 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio disponible en disco duro: 16 GB para versiones de 32 bits y 20 GB para versiones de 64 bits.
  - Tarjeta gráfica: Compatible con DirectX 9 o superior.
  - Resolución de pantalla: No hay requisitos específicos mencionados para la resolución de pantalla
+
+<p float="left" style="text-align:center">
+ <img src="image/Imagen6.png" widtch="200" height="200"/>
+ <img src="image/Imagen7.png" widtch="100" height="200"/>
+ <img src="image/Imagen8.png" widtch="100" height="200"/>   
+</p> 
+
    
 ### Ubuntu 24 
  - Procesador: Procesador de 64 bits con 2 GHz o más rápido.
