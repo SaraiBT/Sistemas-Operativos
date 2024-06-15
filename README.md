@@ -130,9 +130,9 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Memoria RAM: 512 MB de RAM.
  - Espacio disponible en disco duro: Mínimo de 32 GB.
  - Adaptador de red: Adaptador Ethernet con un rendimiento de al menos 1 gigabit por segundo y compatible con la especificación de arquitectura PCI Express
-![WhatsApp Image 2024-06-14 at 9 00 34 PM](https://github.com/SaraiBT/Sistemas-Operativos/assets/163365374/3e449396-8dcd-4cd5-bbdf-79f8aad02e3e)
-![WhatsApp Image 2024-06-14 at 6 59 21 PM](https://github.com/SaraiBT/Sistemas-Operativos/assets/163365374/6f04162d-bf18-445f-b343-d262b8153caf)
-![WhatsApp Image 2024-06-14 at 7 34 56 PM](https://github.com/SaraiBT/Sistemas-Operativos/assets/163365374/7101004a-657b-4c55-9f45-858045260ff5)
+<p float="left" style="text-align:center">
+ <img src="image/WhatsApp Image 2024-06-14 at 6.59.21 PM.jpeg" widtch="600"/>
+</p> 
 
 ### Red Hat 
  - Procesador: Procesador de 64 bits con al menos 1 núcleo.
