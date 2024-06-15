@@ -133,9 +133,9 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
 <p float="left" style="text-align:center">
  <img src="image/WhatsApp Image 2024-06-14 at 9.00.34 PM.jpeg" widtch="200" height="200"/>
  <img src="image/WhatsApp Image 2024-06-14 at 6.59.21 PM.jpeg" widtch="100" height="200"/>
- <img src="image/Imagen de WhatsApp 2024-06-14 a las 19.36.36.jpeg" widtch="100" height="200"/>  
+ <img src="image/WhatsApp Image 2024-06-14 at 7.36.36 PM.jpeg" widtch="100" height="200"/>  
  <img src="image/WhatsApp Image 2024-06-14 at 7.34.56 PM.jpeg" widtch="100" height="200"/> 
- <img src="image/Imagen de WhatsApp 2024-06-14 a las 19.01.37.jpeg" widtch="100" height="200"/>  
+ <img src="image/WhatsApp Image 2024-06-14 at 7.01.37 PM.jpeg" widtch="100" height="200"/>  
 </p> 
 
 ### Red Hat 
