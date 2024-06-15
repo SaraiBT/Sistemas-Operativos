@@ -163,6 +163,13 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Lector de CD-ROM o tarjeta de red: Necesita un lector de CD-ROM o tarjeta de red para instalar.
  - Tarjeta de sonido: Necesita una tarjeta de sonido para funcionar.
  - Conexión a Internet: Necesita una conexión a Internet para descargar actualizaciones y configurar el sistema
+
+<p float="left" style="text-align:center">
+ <img src="image/WhatsApp Image 2024-06-14 at 7.48.35 PM.jpeg" widtch="100" height="200"/>
+ <img src="image/WhatsApp Image 2024-06-14 at 8.05.17 PM.jpeg" widtch="100" height="200"/>  
+ <img src="image/WhatsApp Image 2024-06-14 at 8.24.56 PM.jpeg" widtch="100" height="200"/>  
+ <img src="image/WhatsApp Image 2024-06-14 at 9.27.51 PM.jpeg" widtch="100" height="200"/>
+</p> 
    
 ### LinuxMint
  - Procesador: 1 GHz.
