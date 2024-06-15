@@ -29,7 +29,7 @@
     - [Debian](#debian-1)
     - [Windows Server](#windows-server-1)
     - [Red Hat](#red-hat-1)
-    - [Android 13](#android-13-1)
+    - [Android 13](#android-13-y-9-1)
     - [Elementary OS](#elementary-os-1)
     - [Kubuntu](#kubuntu-1)
     - [LinuxMint](#linuxmint-1)
@@ -132,6 +132,14 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio disponible en disco duro: Al menos 25 GB de espacio libre.
  - Tarjeta gráfica: Compatible con DirectX 9 o superior.
  - Resolución de pantalla: No hay requisitos específicos mencionados para la resolución de pantalla
+
+<p float="left" style="text-align:center"> 
+ <img src="image/Imagen9.png" widtch="100" height="200"/>
+ <img src="image/Imagen10.png" widtch="100" height="200"/>
+ <img src="image/Imagen11.png" widtch="100" height="200"/>
+ <img src="image/Imagen12.png" widtch="100" height="200"/>
+</p> 
+   
    
 ### Debian
  - Procesador: Procesador de 64 bits con al menos 1 núcleo.
@@ -162,11 +170,18 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Memoria RAM: 2 GB de RAM.
  - Espacio disponible en disco duro: Al menos 10 GB de espacio disponible en disco no particionado o en particiones que puedan ser eliminadas
    
-### Android 13
+### Android 13 y 9
  - Procesador: Procesador de 64 bits.
  - Memoria RAM: 2 GB de RAM como mínimo. Los dispositivos con 1 o 1,5 GB de RAM no podrán actualizar a Android 13.
  - Almacenamiento interno: Al menos 16 GB de almacenamiento interno. Cualquier dispositivo nuevo con Android Go debe tener al menos 16 GB de almacenamiento.
  - Versión Android: Mínima versión recomendada 7.0, recomendada con Android 10.0 o superior
+
+<p float="left" style="text-align:center"> 
+ <img src="image/Imagen14.png" widtch="100" height="200"/>
+ <img src="image/Imagen15.png" widtch="100" height="200"/>
+ <img src="image/Imagen16.png" widtch="100" height="200"/>
+ <img src="image/Imagen17.png" widtch="100" height="200"/>
+</p> 
 
 ### Elementary OS
  - Procesador: Procesador de 64 bits compatible con Intel i3 o equivalente.
