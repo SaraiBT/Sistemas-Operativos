@@ -131,7 +131,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio disponible en disco duro: Mínimo de 32 GB.
  - Adaptador de red: Adaptador Ethernet con un rendimiento de al menos 1 gigabit por segundo y compatible con la especificación de arquitectura PCI Express
 <p float="left" style="text-align:center">
- <img src="image/WhatsApp Image 2024-06-14 at 6.59.21 PM.jpeg" widtch="600"/>
+ <img src="image/WhatsApp Image 2024-06-14 at 6.59.21 PM.jpeg" widtch="300"/>
 </p> 
 
 ### Red Hat 
