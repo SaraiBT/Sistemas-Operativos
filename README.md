@@ -177,6 +177,13 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio en disco: 15 GB (se recomiendan 20 GB para una instalación más completa).
  - Tarjeta gráfica: 1024x768.
 
+<p float="left" style="text-align:center">
+ <img src="image/WhatsApp Image 2024-06-14 at 9.35.00 PM.jpeg" widtch="100" height="200"/>
+ <img src="image/WhatsApp Image 2024-06-14 at 8.33.03 PM.jpeg" widtch="100" height="200"/>
+ <img src="image/WhatsApp Image 2024-06-14 at 8.29.59 PM.jpeg" widtch="100" height="200"/>  
+ <img src="image/WhatsApp Image 2024-06-14 at 8.24.56 PM.jpeg" widtch="100" height="200"/>  
+</p> 
+   
    
 ## 4. Ventajas y Desventajas
 
