@@ -104,6 +104,12 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Memoria RAM: 4 GB de RAM.
  - Espacio disponible en disco duro: Al menos 25 GB de espacio libre en el disco duro.
  - Tarjeta gráfica: Tarjeta gráfica y monitor capaces de una resolución de al menos 1024 x 768 píxeles
+   
+<p float="left" style="text-align:center">
+ <img src="image/Imagen3.png" widtch="200" height="200"/>
+ <img src="image/Imagen4.png" widtch="100" height="200"/>
+ <img src="image/Imagen5.png" widtch="100" height="200"/>   
+</p> 
 
 ### Windows 11 y Ubuntu 20 
 **Windows 11**
@@ -135,6 +141,7 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Memoria RAM: 512 MB de RAM.
  - Espacio disponible en disco duro: Mínimo de 32 GB.
  - Adaptador de red: Adaptador Ethernet con un rendimiento de al menos 1 gigabit por segundo y compatible con la especificación de arquitectura PCI Express
+   
 <p float="left" style="text-align:center">
  <img src="image/WhatsApp Image 2024-06-14 at 9.00.34 PM.jpeg" widtch="200" height="200"/>
  <img src="image/WhatsApp Image 2024-06-14 at 6.59.21 PM.jpeg" widtch="100" height="200"/>
