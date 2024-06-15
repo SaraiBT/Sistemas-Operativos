@@ -1,4 +1,4 @@
- b# Informe Comparativo entre Varios Sistemas Operativos
+Informe Comparativo entre Varios Sistemas Operativos
 
 **Curso:** Sistemas Operativos I
 
@@ -131,7 +131,8 @@ Linux Mint es una distribución de Linux basada en Ubuntu y Debian, diseñada pa
  - Espacio disponible en disco duro: Mínimo de 32 GB.
  - Adaptador de red: Adaptador Ethernet con un rendimiento de al menos 1 gigabit por segundo y compatible con la especificación de arquitectura PCI Express
 
-!(
+![WhatsApp Image 2024-06-14 at 6 59 21 PM](https://github.com/SaraiBT/Sistemas-Operativos/assets/163365374/6f04162d-bf18-445f-b343-d262b8153caf)
+
 
 ### Red Hat 
  - Procesador: Procesador de 64 bits con al menos 1 núcleo.
